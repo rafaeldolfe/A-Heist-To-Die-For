@@ -4,8 +4,6 @@
 
 A Heist to Die For is a level-based progression game, centered around doing dangerous and risky heists around the city of Land Moes Sisco. In each level, the Super Criminal Urgenization Mastering Bignified Aggressive Gameplay Strategizers (SCUMBAGS) have to infiltrate an area, rob a vault, and escape with the money.
 
-A game made during Global Game Jam, 29 - 31 January, 2020. Co-developed with Cheemis.
-
 ## How To Play
 
 At the beginning of a heist, you will choose what robbers to use in your mission.
@@ -29,7 +27,7 @@ Use SPACEBAR to select/switch between robbers.
 Once a robber is selected, use RIGHT CLICK on the ground to move a
 robber to that location!
 
-#Goal
+## Goal
 
 Collect as much money as possible!
 Don't get caught and killed by guards!
